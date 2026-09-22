@@ -99,7 +99,6 @@
     "mime-types": "^2.1.35",
     "api-dylux": "^1.7.2",
     "yargs": "^17.3.1",
-    "senna-fg": "^0.0.5",
     "adm-zip": "^0.5.16",
     "aki-api": "^7.0.1",
     "canvafy": "^7.0.0",
